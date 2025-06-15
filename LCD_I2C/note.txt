@@ -1,0 +1,4 @@
+real device
+in 1st line of lcd_driver.py
+change to
+import LCD_i2c.i2c_lib as i2c_lib
