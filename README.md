@@ -1,4 +1,4 @@
-# Hướng dẫn mô phỏng Raspberry Pi với Proteus (RMoo Tutorial)
+# Hướng dẫn mô phỏng Raspberry Pi với Proteus
 
 ## Tổng quan
 Mô phỏng Raspberry Pi đọc data cảm biến khói MQ2 qua MCP3008 trên Proteus
