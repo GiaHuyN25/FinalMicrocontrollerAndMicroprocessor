@@ -10,7 +10,7 @@ Mô phỏng Raspberry Pi đọc data cảm biến khói MQ2 qua MCP3008 trên Pr
 
 ## Các bước thực hiện cài đặt GAS SENSOR vào Proteus
 - Giải nén File đã tải ở trên, pass: electronicstree.com
-- Copy file trong folder LIB và dán vào `C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY` (Đây chỉ là folder nếu cài đặt theo mặc định, còn nếu đã đổi folder cài đặt thì tìm đến `<DATA\LIBRARY>`)
+- Copy file trong folder LIB và dán vào `C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY` (Đây chỉ là folder nếu cài đặt theo mặc định, còn nếu đã đổi folder cài đặt thì tìm đến `DATA\LIBRARY`)
 - Copy file trong folder MODEL và dán vào `C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\MODELS`
 
 ## Nội dung
